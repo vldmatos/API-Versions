@@ -1,5 +1,6 @@
 # API-Versions
-*An elegant way to version API*
+*An elegant way to version API*  
+*Does not use versioning through the route, but by the header of the http protocol*  
 
 
 ## Using
