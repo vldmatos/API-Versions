@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "Source\API.csproj", "{BCE8EB12-A7AC-4A67-AEEF-62D7F97CBDFB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configurations", "{F18B9287-8C76-4A6B-8B2E-529046C4C660}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{28E803D3-9D9A-4C06-9D5D-C39B2A20EBB7}"
+	ProjectSection(SolutionItems) = preProject
+		Assets\print.png = Assets\print.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE8EB12-A7AC-4A67-AEEF-62D7F97CBDFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE8EB12-A7AC-4A67-AEEF-62D7F97CBDFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE8EB12-A7AC-4A67-AEEF-62D7F97CBDFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE8EB12-A7AC-4A67-AEEF-62D7F97CBDFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564A058C-C983-4569-BBD1-AAA95CD01FE4}
+	EndGlobalSection
+EndGlobal
